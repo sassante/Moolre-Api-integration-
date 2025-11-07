@@ -27,7 +27,7 @@ It sends a payment (transfer) from a Moolre account and then triggers an SMS not
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/Moolre-Api-integration.git
+git clone https://github.com/sassante/Moolre-Api-integration.git
 cd Moolre-Api-integration
 ````
 
@@ -108,7 +108,6 @@ Moolre-Api-integration/
 
 ## 🧑‍💻 Author
 
-**Your Name**
 🌐 GitHub: [@YOUR-USERNAME](https://github.com/sassante)
 📧 Email: [your.email@example.com](mailto:sandraasante201@gmail.com)
 
@@ -117,7 +116,7 @@ Moolre-Api-integration/
 ## 📜 License
 
 This project is licensed for demonstration purposes only.
-© 2025 YOUR NAME — All rights reserved.
+© 2025 sassante — All rights reserved.
 
 ```
 
