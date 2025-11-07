@@ -104,14 +104,7 @@ Moolre-Api-integration/
 └── .gitignore        # Ignored files (includes .env)
 ```
 
----
 
-## 🧑‍💻 Author
-
-🌐 GitHub: [@YOUR-USERNAME](https://github.com/sassante)
-📧 Email: [your.email@example.com](mailto:sandraasante201@gmail.com)
-
----
 
 ## 📜 License
 
